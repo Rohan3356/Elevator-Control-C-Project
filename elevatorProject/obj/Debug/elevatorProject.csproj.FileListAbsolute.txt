@@ -1,0 +1,9 @@
+c:\users\daemon\documents\visual studio 2012\Projects\elevatorProject\elevatorProject\bin\Debug\elevatorProject.exe.config
+c:\users\daemon\documents\visual studio 2012\Projects\elevatorProject\elevatorProject\bin\Debug\elevatorProject.exe
+c:\users\daemon\documents\visual studio 2012\Projects\elevatorProject\elevatorProject\bin\Debug\elevatorProject.pdb
+c:\users\daemon\documents\visual studio 2012\Projects\elevatorProject\elevatorProject\obj\Debug\elevatorProject.Form1.resources
+c:\users\daemon\documents\visual studio 2012\Projects\elevatorProject\elevatorProject\obj\Debug\elevatorProject.Properties.Resources.resources
+c:\users\daemon\documents\visual studio 2012\Projects\elevatorProject\elevatorProject\obj\Debug\elevatorProject.csproj.GenerateResource.Cache
+c:\users\daemon\documents\visual studio 2012\Projects\elevatorProject\elevatorProject\obj\Debug\elevatorProject.exe
+c:\users\daemon\documents\visual studio 2012\Projects\elevatorProject\elevatorProject\obj\Debug\elevatorProject.pdb
+c:\users\daemon\documents\visual studio 2012\Projects\elevatorProject\elevatorProject\obj\Debug\elevatorProject.csprojResolveAssemblyReference.cache
